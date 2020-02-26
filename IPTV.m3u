@@ -2,5 +2,8 @@
 
 #EXTGRP: EXAMPLE
 
-#EXTINF:0, Example
+#EXTINF:-1, Example
 http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
+
+#EXTINF:-1, Example 2
+http://5a7bcfb834235.streamlock.net/tvsd2/smil:9cb929910544f649.smil/playlist.m3u8
