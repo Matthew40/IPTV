@@ -1,1 +1,6 @@
+#EXTINF
 
+#EXTGRP: EXAMPLE
+
+#EXTINF:0, Example
+http://0.0.0.0
