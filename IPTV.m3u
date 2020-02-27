@@ -6,7 +6,7 @@
 http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
 
 #EXTINF:-1, Example 2
-https://origin.topcanais.com/mylive/cartoonnetworksd/video.m3u8
+http://origin.topcanais.com/mylive/cartoonnetworksd/video.m3u8
 
 #EXTINF:-1, Example 3
 https://slbps-sambatech.akamaized.net/live/2472%2C5164%2C6c1f2e9d204aab6374f0bec27834aa95%3Bbase64np%3BPvsLdjEM0QdLO5Q%21/amlst%3APvvzbyxH1AZUexiy/chunklist.m3u8
